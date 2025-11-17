@@ -2,6 +2,11 @@ body{
     background: linear-gradient(135deg, #000000 0%, #1C1C1C 100%);
 
 }
+
+a{
+        text-decoration: none;
+    color: white;
+}
 .s{
     padding: 45px 120px; 
 }
@@ -551,7 +556,10 @@ footer {
   .nav .nav-links { width: auto; min-width: 160px; }
   .nav .nav-links a { white-space: nowrap; }
 
-
+a{
+        text-decoration: none;
+    color: white;
+}
 
 
  
